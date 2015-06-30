@@ -8,29 +8,30 @@
 - [@guillaumelobet](https://twitter.com/guillaumelobet)
 
 
-This document was created for a workshop during the [Let's talk science 2015](http://letstalkscience.be/) in Leuven. 
+This document was created for the [Let's talk science 2015](http://letstalkscience.be/) event that took place in Leuven, Belgium. 
 
 
-## Outline
+## Outline of the workshop
 
 1. Present your research topic
 
 2. [Scientometrics](#anchor1)
 	- Introduction
-	- Group discussions
-		- In my field of research, what do I know about:
+	- Group discussions (groups with similar research field)
+		- In your field, what do you know about:
 			- the journal impact factors
 			- the researchers h-index
 		- What are the limitations of
 			- impact factor
 			- h-index
 			- altmetrics
-	- Sharing and conclusions
+	- Sharing and discussions
 	
 3. [Publish everything](#anchor2)
 	- Group discussions
-		- What type of scientific product do I produce?
-		- How can I valorise my production (what do I already do?)
+		- List scientific output in your fields
+		- How can you valorise this production? 
+		- What do you already do?
 	- Sharing
 	- Tools presentations
 	- In practice
@@ -237,9 +238,20 @@ So, go ahead and blog about your lab!
 	- Medium [https://medium.com/]()	
 
 
+#### Electronic notebooks
+
+Open-science aficionados might take a step further than than the blog by making their lab notebook available to the world. This extreme step has been taken by several researchers already. It has the advantage to be fully transparent about your research.
+
+- Carl Boettinger [http://www.carlboettiger.info/lab-notebook.html]()
+- iPython Notebook [http://ipython.org/notebook.html]()
+
+
 #### Pre-prints
 
+The main advantage of pre-print is to make your work directly available to the scientific community, before the *long* process of reviewing is over. It can drive discussion about early manuscripts, making them better before the formal submission.
+
 Before putting a pre-print of your article, do not forget to check the publishing policy of the target journal. Some do not accept to publish research that has been posted on a pre-print server.
+
 
 - arXiv [http://arxiv.org/]()
 - bioRXiv [http://biorxiv.org/]()
@@ -265,6 +277,13 @@ As a scientist, you have a unique expertise in, at least, on domain. You can use
 - Is this what you want other people to see about you?
 - Not really?
 - Then it is time to **do something about it**
+
+
+Two strategies:
+
+1. Remove everything about you on the web... (not possible, the web never forgets)
+2. **Fill with useful information about you**
+
 
 
 ### Get your identifier
@@ -338,11 +357,9 @@ Personal tips:
 
 Tips from Anne Osterrieder[^1]
 
-- Interesting, engaging and informative updates about your research  
+- Interesting, engaging and informative updates about your research 
 - Find the right balance between professional and personal informations
-
 - Beware of posting confidential informations (grants, papers, …)
-
 - Everything is in the open!
 
 

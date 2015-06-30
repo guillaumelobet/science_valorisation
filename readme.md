@@ -1,14 +1,14 @@
-# Scientific valorisation
-## Getting the most out of your research
+# Scientific valorisation: Getting the most out of your research
 
-	Guillaume Lobet
-	University of Liege - PhytoSYSTEMS
-	guillaume.lobet@ulg.ac.be
-	www.guillaumelobet.be
-	@guillaumelobet
+**Guillaume Lobet**
+
+- [University of Liege](http://www.ulg.ac.be/) - [PhytoSYSTEMS](http://www.phytosystems.ulg.ac.be/en/)
+- [guillaume.lobet@ulg.ac.be](mailto:guillaume.lobet@ulg.ac.be)
+- [www.guillaumelobet.be]()
+- [@guillaumelobet](https://twitter.com/guillaumelobet)
 
 
-This document was created for a workshop during the [Let's talk science](http://letstalkscience.be/) event 2015. 
+This document was created for a workshop during the [Let's talk science 2015](http://letstalkscience.be/) in Leuven. 
 
 
 ## Outline
@@ -49,11 +49,11 @@ Wikipedia:
 
 > Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts
 
-Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
+In a perfect world, everything scientist would be judged based on the sole quality of his/her research. However, when applying for grants, promotions, etc, the work of the applicant needs to be judged by (partially non specialists). Indicators of quality and productivity are therefore needed. Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
 
 - Google Scholar metrics [https://scholar.google.com/citations?view_op=top_venues]()
 - h-index definition [https://en.wikipedia.org/wiki/H-index]()
-- impact factor definition [https://en.wikipedia.org/wiki/Impact_factor]()
+- Impact factor definition [https://en.wikipedia.org/wiki/Impact_factor]()
 
 
 ----
@@ -289,6 +289,15 @@ Facebook, but for scientists!
 These networks can be used to connect with your colleagues, display your publications and access other's, interact with other scientists. 
 
 
+### Personal website
+
+A personal website will offer more flexibility in terms of design and content that the pre-defined online platforms. It can be just a set of links pointing to your different profiles. It definitively do not need to be complex to be efficient.
+
+- Elbowpatch [http://www.elbowpatched.com/](). 
+- Github pages [https://pages.github.com/]()
+- About me [https://about.me/]()
+
+
 ### ImpactStory
 
 	DISCLAIMER: I am an ImpactStory adviser since 2013. 
@@ -315,9 +324,29 @@ Twitter can be used in multiple ways in the scientific community. It can be used
 - stay up to date with the literature (follow journals)
 - stay up to date with there scientists work (follow colleagues)
 - outreach to the public
+- follow conferences (follow hashtags)
+
+Personal tips:
+
+- If you want to have **larger impact**, tweet in the late afternoon (GTM+0). Europeans will still be in the office and Americans will get to work. Larger audience. 
+- Use third party apps to schedule tweets
+	- HootSuite [https://hootsuite.com/]()
+	- Buffer [https://buffer.com/]()
+- Keep it mainly professional
+- Engage with other, but don't be pushy
 
 
-- Tweet your Science [http://www.tweetyourscience.com/]()
+Tips from Anne Osterrieder[^1]
+
+- Interesting, engaging and informative updates about your research  
+- Find the right balance between professional and personal informations
+
+- Beware of posting confidential informations (grants, papers, …)
+
+- Everything is in the open!
+
+
+
 
 
 
@@ -333,7 +362,7 @@ Maintaining profiles on multiple platforms can take a lot of time. Fortunately, 
 ## Further reading
 
 - Impact challenge [http://blog.impactstory.org/research-impact-challenge-ebook/]()
-- Osterrieder, A. (2013). The value and use of social media as communication tool in the plant sciences. Plant Methods, 9(26), 26. [http://doi.org/10.1186/1746-4811-9-26]()
 - Tweet your Science [http://www.tweetyourscience.com/]()
 
+[^1]:  Osterrieder, A. (2013). The value and use of social media as communication tool in the plant sciences. Plant Methods, 9(26), 26. [http://doi.org/10.1186/1746-4811-9-26]()
 

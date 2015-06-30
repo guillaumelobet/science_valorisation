@@ -138,6 +138,7 @@ Tracks impact in social media and web 2.0 platforms, such as:
 - figshare
 - github
 - pubmed
+- YouTube, Vimeo
 - ...
 - ...
 
@@ -170,7 +171,82 @@ As scientists, we have a lot of different skills, occupations or duties. Peer-re
 ![The scientific pipeline](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure4.png)
 
 
+#### Datasets
 
+Acquiring dataset is a long and (sometime) expensive experience. Most of the time, you will not even use it at its maximal capacity. Sharing a dataset is a good way to valorise it further and enable additional analysis by the community.
+
+- figshare [http://figshare.com/]()
+- Dryad [http://datadryad.org/]()
+- ...
+
+#### Reading papers
+
+The most basic scientific activity is reading paper. We all do it. We do it for ourself, to stay up to-date in our field, to learn about a new topic, etc. Sometimes, we even find flaws or mistakes in published papers. There is no reason we should not be able to share this reading experience...
+
+- Mendeley [https://www.mendeley.com/]()
+- Zotero [https://www.zotero.org/]()
+- PubPeer  [https://pubpeer.com/]()
+- Pubmed Commons [http://www.ncbi.nlm.nih.gov/pubmedcommons/]()
+- ...
+
+#### Code
+
+Almost any analysis or plot required some level of coding. While some of it is trivial and easy to reproduce, some are more complexe. Sometimes, we spend days on a specific analysis, a particular graph. Sharing this experience will help the people who want to reproduce what you have done.
+
+If you are developing software tools, or algorithms, its is even more important to share your code. It is the foundation of your work, what you can get credit for.
+
+Sharing your code is also perfect way to work in team, build new collaborations and keep track of your work (version tracking).
+
+- Github [http://www.github.com]()
+- Sourceforge [http://www.sourceforge.net]()
+- Bitbucket [https://bitbucket.org/]()
+- ...
+
+
+#### Reviewing
+
+Peer-reviewing is one of the foundation of academic publishing. The whole publishing system is based on the **voluntary** contribution of the scientific community. In addition, proper reviewing take some time, especially for young researchers. As such, reviewing activities should be valorised.
+
+- Publons [https://publons.com/]()
+
+#### Posters, presentations
+
+- figshare [http://figshare.com/]()
+- Slideshare [www.slideshare.net]()
+- f1000 [http://f1000.com/posters]()
+
+#### Lab life
+
+Writing a blog 	about your research is good for several reasons. It make you think about what you are doing and force you to structure your mind. It is also an excellent practice for writing paper. Quoting (from memory...) [Tobias Baskin](https://www.cpib.ac.uk/lab-fab/):
+
+> When you give a child a violin for the first time, you do not expect him to play well. The same goes for writing. Practicing is the key.
+
+So, go ahead and blog about your lab!
+
+- Blogging
+	- Wordpress [http://wordpress.com/]()
+	- Blogger [http://www.blogger.com]()
+	- Tumblr [http://tumblr.com/]()
+	- Medium [https://medium.com/]()	
+
+
+#### Pre-prints
+
+Before putting a pre-print of your article, do not forget to check the publishing policy of the target journal. Some do not accept to publish research that has been posted on a pre-print server.
+
+- arXiv [http://arxiv.org/]()
+- bioRXiv [http://biorxiv.org/]()
+- PeerJ pre-prints [https://peerj.com/preprints/]()
+
+#### Expertise
+
+As a scientist, you have a unique expertise in, at least, on domain. You can use to web to share it!
+
+- Stack Exchange [www.stackexchange.com]()
+- ResearchGate [http://www.researchgate.net]()
+
+
+----
 
 ### The networks' network
 

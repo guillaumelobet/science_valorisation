@@ -7,6 +7,8 @@
 	@guillaumelobet
 
 
+This document was created for a workshop during the [Let's talk science](http://letstalkscience.be/) event 2015. 
+
 
 ## Outline
 
@@ -39,6 +41,14 @@ Wikipedia:
 
 > Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts
 
+Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
+
+- Google Scholar metrics [https://scholar.google.com/citations?view_op=top_venues]()
+- h-index definition [https://en.wikipedia.org/wiki/H-index]()
+- impact factor definition [https://en.wikipedia.org/wiki/Impact_factor]()
+- 
+
+----
 
 ### Journal level: Impact factor
 
@@ -60,11 +70,14 @@ $$IF = {n_{citations} \over n_{papers}}$$
 
 #### Critics
 
+
 - Influenced by
 	- trendiness
 	- readership
 	- publicity
 	- field
+	- auto-citations
+	- journal policy
 - Average of all papers
 	- potential influence of *start* article
 	- higher for reviews
@@ -83,8 +96,28 @@ $$IF = {n_{citations} \over n_{papers}}$$
 
 #### Source
 
+- Scopus [http://www.scopus.com/]()
+- Google Scholar [https://scholar.google.com]()
+
 #### Critics
 
+- include both the number of papers and the number of citations
+	- one good paper is not enough
+	- many bad papers are not enough
+	- quality and quantity
+	
+- Influenced by
+	- age
+	- trendiness
+	- field
+	- auto-citations
+
+- Not influenced by
+	- author contribution
+	 
+
+
+----
 
 ### Article level: Altmetrics
 
@@ -95,13 +128,23 @@ Wikipedia:
 
 > altmetrics are non-traditional metrics proposed as an alternative to more traditional citation impact metrics, such as impact factor and h-index.
 
-![altmetrics](images/figure3.png)
+![Screenshot of Altmetric.com article presentation](images/figure3.png)
 
 #### Source
 
+- Altmetric.com [http://www.altmetric.com/]()
+- Plum analytics [http://www.plumanalytics.com/]()
+- ImpactStory [http://www.impactstory.org]()
+
 #### Drawbacks
 
+- Influenced by
+	- trendiness
+	- buzz
+	- author existing network
 
+- Not (necessarily) influenced by
+	- scientific quality
 
 ## [Scientific production](id:anchor2)
 

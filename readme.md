@@ -1,4 +1,5 @@
-# Scientific valorisation: getting the most out of your research
+# Scientific valorisation
+## Getting the most out of your research
 
 	Guillaume Lobet
 	University of Liege - PhytoSYSTEMS
@@ -238,22 +239,16 @@ Before putting a pre-print of your article, do not forget to check the publishin
 - bioRXiv [http://biorxiv.org/]()
 - PeerJ pre-prints [https://peerj.com/preprints/]()
 
+
 #### Expertise
 
 As a scientist, you have a unique expertise in, at least, on domain. You can use to web to share it!
 
-- Stack Exchange [www.stackexchange.com]()
+- Stack Exchange [http://www.stackexchange.com]()
 - ResearchGate [http://www.researchgate.net]()
 
 
-----
 
-### The networks' network
-
-Maintaining profiles on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
-
-
-![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
 
 
 ## [Advertise yourself](id:anchor3)
@@ -266,6 +261,37 @@ Maintaining profiles on multiple platforms can take a lot of time. Fortunately, 
 - Then it is time to **do something about it**
 
 
+### Get your identifier
+
+### Social networks
+
+Facebook, but for scientists!
+
+- Generalist: 
+	- LinkedIn [https://www.linkedin.com/]()
+- Specialised
+	- ResearchGate [http://www.researchgate.net]()
+	- Academia.edu [https://www.academia.edu/]() 
+
+These networks can be used to connect with your colleagues, display your publications and access other's, interact with other scientists. 
+
+
+### ImpactStory
+
+	DISCLAIMER: I am an ImpactStory adviser since 2013. 
+	That means I got three free t-shirts and free stickers.
+
+> Discover and share how your research is read, cited, tweeted, bookmarked, and more. 
+
+ImpactStory is a **paid service** (free to try) that gathers all your scientific production in one place and computed related altmetrics. These metrics are put into context (related to your fields, the platform, ...). 
+
+Update of your profile can be automated by connecting it to ORCID, Scopus, Twitter, ....
+
+![ImpactStory](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
+
+
+
+Once your profile is fully setup, you can export it to JSON, CSV or as a formatted markdown CV ([http://impact.guillaumelobet.be/]())
 
 
 
@@ -277,11 +303,12 @@ Maintaining profiles on multiple platforms can take a lot of time. Fortunately, 
 
 
 
+## The networks' network
 
-![Impactstory](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
+Maintaining profiles on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
 
 
-
+![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure6.png)
 
 
 

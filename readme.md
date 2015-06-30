@@ -26,7 +26,7 @@ This document was created for a workshop during the [Let's talk science](http://
 			- altmetrics
 	- Sharing and conclusions
 	
-3. [Scientific production](#anchor2)
+3. [Publish everything](#anchor2)
 	- Group discussions
 		- What type of scientific product do I produce?
 		- How can I valorise my production (what do I already do?)
@@ -34,6 +34,7 @@ This document was created for a workshop during the [Let's talk science](http://
 	- Tools presentations
 	- In practice
 	
+4. [Advertise yourself](#anchor3)	
 	
 ## [Scientometrics](id:anchor1)
 
@@ -61,7 +62,7 @@ Wikipedia:
 
 $$IF = {n_{citations} \over n_{papers}}$$
 
-![Journal impact factor distribution](images/figure1.png)
+![Journal impact factor distribution](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure1.png)
 
 #### Source
 - ISI Journal Citation Report
@@ -92,7 +93,7 @@ $$IF = {n_{citations} \over n_{papers}}$$
 > A scientist has index h if h of his/her n papers have at least h citations each, and the other (n − h) papers have no more than h citations each.
 
 
-![h-index computations](images/figure2.png)
+![h-index computations](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure2.png)
 
 #### Source
 
@@ -128,7 +129,7 @@ Wikipedia:
 
 > altmetrics are non-traditional metrics proposed as an alternative to more traditional citation impact metrics, such as impact factor and h-index.
 
-![Screenshot of Altmetric.com article presentation](images/figure3.png)
+![Screenshot of Altmetric.com article presentation](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure3.png)
 
 #### Source
 
@@ -146,8 +147,13 @@ Wikipedia:
 - Not (necessarily) influenced by
 	- scientific quality
 
-## [Scientific production](id:anchor2)
+## [Publish everything](id:anchor2)
 
+
+
+
+
+## [Advertise yourself](id:anchor3)
 
 
 

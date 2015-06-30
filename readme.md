@@ -355,6 +355,20 @@ Tips from Anne Osterrieder[^1]
 
 Maintaining profiles on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
 
+My choice would be:
+
+1. [Google](https://www.google.com)
+2. [Twitter](https://www.twitter)
+3. [ORCID](http://orcid.org/)
+4. [Google Scholar](https://scholar.google.com)
+5. [figshare](http://figshare.com/)
+6. [Publons](https://publons.com/)
+7. [Github](https://github.com/)
+8. [ImpactStory](http://impactstory.org)
+
+Of course, any order is good :)
+
+
 
 ![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure6.png)
 

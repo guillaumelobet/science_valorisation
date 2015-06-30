@@ -36,7 +36,13 @@ This document was created for a workshop during the [Let's talk science](http://
 	- In practice
 	
 4. [Advertise yourself](#anchor3)	
+
+	- Group discussion
+		- Do you use social media in the workplace?
+		- What are the use of social media for scientists?
+	- Tools presentations
 	
+
 ## [Scientometrics](id:anchor1)
 
 Wikipedia:
@@ -262,6 +268,14 @@ As a scientist, you have a unique expertise in, at least, on domain. You can use
 
 
 ### Get your identifier
+
+Many scientists have homonyms, sometime in the same community. It is important to be able to distinguish them. Sometime, you also change name during your career. Both reason calls for a unique way to identify yourself in the research community. 
+
+**ORCID** ([http://orcid.org/]()) is a service allowing researcher to claim a unique identifier. This identifier can be use in other services, such as publishers, online platforms, ...
+
+
+
+
 
 ### Social networks
 

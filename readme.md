@@ -276,7 +276,6 @@ Many scientists have homonyms, sometime in the same community. It is important t
 
 
 
-
 ### Social networks
 
 Facebook, but for scientists!
@@ -309,10 +308,16 @@ Once your profile is fully setup, you can export it to JSON, CSV or as a formatt
 
 
 
+### Twitter
+
+Twitter can be used in multiple ways in the scientific community. It can be used for:
+
+- stay up to date with the literature (follow journals)
+- stay up to date with there scientists work (follow colleagues)
+- outreach to the public
 
 
-
-
+- Tweet your Science [http://www.tweetyourscience.com/]()
 
 
 
@@ -325,6 +330,10 @@ Maintaining profiles on multiple platforms can take a lot of time. Fortunately, 
 ![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure6.png)
 
 
+## Further reading
 
+- Impact challenge [http://blog.impactstory.org/research-impact-challenge-ebook/]()
+- Osterrieder, A. (2013). The value and use of social media as communication tool in the plant sciences. Plant Methods, 9(26), 26. [http://doi.org/10.1186/1746-4811-9-26]()
+- Tweet your Science [http://www.tweetyourscience.com/]()
 
 

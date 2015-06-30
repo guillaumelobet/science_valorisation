@@ -250,7 +250,7 @@ As a scientist, you have a unique expertise in, at least, on domain. You can use
 
 ### The networks' network
 
-Maintaining a profile on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
+Maintaining profiles on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
 
 
 ![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
@@ -259,6 +259,11 @@ Maintaining a profile on multiple platforms can take a lot of time. Fortunately,
 ## [Advertise yourself](id:anchor3)
 
 
+- Type you name in Google (this is most likely what future employers will do)
+- See the first results
+- Is this what you want other people to see about you?
+- Not really?
+- Then it is time to **do something about it**
 
 
 
@@ -270,6 +275,10 @@ Maintaining a profile on multiple platforms can take a lot of time. Fortunately,
 
 
 
+
+
+
+![Impactstory](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
 
 
 

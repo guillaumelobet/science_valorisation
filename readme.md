@@ -129,6 +129,19 @@ Wikipedia:
 
 > altmetrics are non-traditional metrics proposed as an alternative to more traditional citation impact metrics, such as impact factor and h-index.
 
+Tracks impact in social media and web 2.0 platforms, such as:
+
+- Twitter
+- Mendeley
+- Facebook
+- Blogs
+- figshare
+- github
+- pubmed
+- ...
+- ...
+
+
 ![Screenshot of Altmetric.com article presentation](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure3.png)
 
 #### Source
@@ -150,7 +163,21 @@ Wikipedia:
 ## [Publish everything](id:anchor2)
 
 
+### Science is not just about publishing papers
 
+As scientists, we have a lot of different skills, occupations or duties. Peer-review papers are only one way to valorise these. 
+
+![The scientific pipeline](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure4.png)
+
+
+
+
+### The networks' network
+
+Maintaining a profile on multiple platforms can take a lot of time. Fortunately, most of the tools and platforms are interconnected. Use these interconnections to stay easily up to-date.
+
+
+![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure5.png)
 
 
 ## [Advertise yourself](id:anchor3)

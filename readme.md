@@ -47,7 +47,7 @@ Many indicators exits. We will only discuss the principal onces. For more info a
 - Google Scholar metrics [https://scholar.google.com/citations?view_op=top_venues]()
 - h-index definition [https://en.wikipedia.org/wiki/H-index]()
 - impact factor definition [https://en.wikipedia.org/wiki/Impact_factor]()
-- 
+
 
 ----
 
@@ -62,7 +62,7 @@ Wikipedia:
 
 $$IF = {n_{citations} \over n_{papers}}$$
 
-![Journal impact factor distribution](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure1.png)
+![Journal impact factor distribution](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure1.png)
 
 #### Source
 - ISI Journal Citation Report
@@ -93,7 +93,7 @@ $$IF = {n_{citations} \over n_{papers}}$$
 > A scientist has index h if h of his/her n papers have at least h citations each, and the other (n − h) papers have no more than h citations each.
 
 
-![h-index computations](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure2.png)
+![h-index computations](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure2.png)
 
 #### Source
 
@@ -129,7 +129,7 @@ Wikipedia:
 
 > altmetrics are non-traditional metrics proposed as an alternative to more traditional citation impact metrics, such as impact factor and h-index.
 
-![Screenshot of Altmetric.com article presentation](https://github.com/guillaumelobet/science_valorisation/blob/master/images/figure3.png)
+![Screenshot of Altmetric.com article presentation](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure3.png)
 
 #### Source
 

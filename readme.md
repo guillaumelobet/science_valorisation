@@ -8,7 +8,7 @@
 - [@guillaumelobet](https://twitter.com/guillaumelobet)
 
 
-This document was created for the [Let's talk science 2015](http://letstalkscience.be/) event that took place in Leuven, Belgium. 
+This document was created for the [Let's talk science 2015](http://letstalkscience.be/) event. 
 
 
 ## Outline of the workshop
@@ -17,11 +17,11 @@ This document was created for the [Let's talk science 2015](http://letstalkscien
 
 2. [Scientometrics](#anchor1)
 	- Introduction
-	- Group discussions (groups with similar research field)
+	- Group discussions
 		- In your field, what do you know about:
 			- the journal impact factors
 			- the researchers h-index
-		- What are the limitations of
+		- What are the limitation(s) of
 			- impact factor
 			- h-index
 			- altmetrics
@@ -50,7 +50,7 @@ Wikipedia:
 
 > Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts
 
-In a perfect world, everything scientist would be judged based on the sole quality of his/her research. However, when applying for grants, promotions, etc, the work of the applicant needs to be judged by (partially non specialists). Indicators of quality and productivity are therefore needed. Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
+In a perfect world, every scientist would be judged based on the sole quality of his/her research. However, when applying for grants, promotions, etc, the work of the applicant needs to be evaluated by (partially) non-specialists. The evaluation comity will have dozen of applications to grade and no time for a proper quality assessment of the applicant's work. Indicators of quality and productivity are therefore needed. Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
 
 - Google Scholar metrics [https://scholar.google.com/citations?view_op=top_venues]()
 - h-index definition [https://en.wikipedia.org/wiki/H-index]()
@@ -87,9 +87,22 @@ $$IF = {n_{citations} \over n_{papers}}$$
 	- field
 	- auto-citations
 	- journal policy
+	
 - Average of all papers
 	- potential influence of *start* article
 	- higher for reviews
+
+#### Examples from the group
+
+- Impact Factor
+	- science: 6
+	- psychology: 2.5
+	- communication: 2.4
+	- engineering: 1.5
+
+- Number of papers
+	- seems to be roughly the same between the different fields
+	- influenced by the number of people in the research group
 
 
 ----
@@ -124,7 +137,6 @@ $$IF = {n_{citations} \over n_{papers}}$$
 - Not influenced by
 	- author contribution
 	 
-
 
 ----
 
@@ -181,7 +193,7 @@ As scientists, we have a lot of different skills, occupations or duties. Peer-re
 
 #### Datasets
 
-Acquiring dataset is a long and (sometime) expensive experience. Most of the time, you will not even use it at its maximal capacity. Sharing a dataset is a good way to valorise it further and enable additional analysis by the community.
+Acquiring datasets is a long and (sometime) expensive experience. Most of the time, you will not even use it at its maximal capacity. Sharing a dataset is a good way to valorise it further and enable additional analysis by the community.
 
 - figshare [http://figshare.com/]()
 - Dryad [http://datadryad.org/]()
@@ -396,4 +408,8 @@ Of course, any order is good :)
 - Tweet your Science [http://www.tweetyourscience.com/]()
 
 [^1]:  Osterrieder, A. (2013). The value and use of social media as communication tool in the plant sciences. Plant Methods, 9(26), 26. [http://doi.org/10.1186/1746-4811-9-26]()
+
+
+
+## They participated to the creation of this document
 

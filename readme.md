@@ -422,5 +422,9 @@ Of course, any order is good :)
 
 
 
-## They participated to the creation of this document
+## Graphical summary
+
+Very nice graphical summary of my presentation by [@Koen_VdE](https://twitter.com/Koen_VdE). High resolution version can be downloaded here: [http://baryon.be/blog/2015/07/zeg-t-eens-summerschool-on-science-communication/]()
+
+![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/graphical_summary.png)
 

@@ -191,6 +191,15 @@ As scientists, we have a lot of different skills, occupations or duties. Peer-re
 ![The scientific pipeline](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure4.png)
 
 
+- patents
+- mainstream media coverage
+- science vulgarisation
+- teaching
+- discussions on social media
+- reports
+
+
+
 #### Datasets
 
 Acquiring datasets is a long and (sometime) expensive experience. Most of the time, you will not even use it at its maximal capacity. Sharing a dataset is a good way to valorise it further and enable additional analysis by the community.
@@ -296,6 +305,8 @@ Two strategies:
 1. Remove everything about you on the web... (not possible, the web never forgets)
 2. **Fill with useful information about you**
 
+
+On the different platform, be informative about yourself. 
 
 
 ### Get your identifier

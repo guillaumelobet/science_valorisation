@@ -8,7 +8,7 @@
 - [@guillaumelobet](https://twitter.com/guillaumelobet)
 
 
-This document was created for the [Let's talk science 2015](http://letstalkscience.be/) event. 
+This document was created for the [Let's talk science 2015](http://letstalkscience.be/) event. All documents, including the presentation I made for the plenary session are available in the [Github repo](https://github.com/guillaumelobet/science_valorisation)
 
 
 ## Outline of the workshop
@@ -26,23 +26,23 @@ This document was created for the [Let's talk science 2015](http://letstalkscien
 			- h-index
 			- altmetrics
 	- Sharing and discussions
-	
+
 3. [Publish everything](#anchor2)
 	- Group discussions
 		- List scientific output in your fields
-		- How can you valorise this production? 
+		- How can you valorise this production?
 		- What do you already do?
 	- Sharing
 	- Tools presentations
 	- In practice
-	
-4. [Advertise yourself](#anchor3)	
+
+4. [Advertise yourself](#anchor3)
 
 	- Group discussion
 		- Do you use social media in the workplace?
 		- What are the use of social media for scientists?
 	- Tools presentations
-	
+
 
 ## [Scientometrics](id:anchor1)
 
@@ -64,7 +64,7 @@ In a perfect world, every scientist would be judged based on the sole quality of
 
 #### Definition
 
-Wikipedia: 
+Wikipedia:
 
 > The impact factor (IF) of an academic journal is a measure reflecting the average number of citations to recent articles published in that journal.
 
@@ -87,7 +87,7 @@ $$IF = {n_{citations} \over n_{papers}}$$
 	- field
 	- auto-citations
 	- journal policy
-	
+
 - Average of all papers
 	- potential influence of *start* article
 	- higher for reviews
@@ -127,7 +127,7 @@ $$IF = {n_{citations} \over n_{papers}}$$
 	- one good paper is not enough
 	- many bad papers are not enough
 	- quality and quantity
-	
+
 - Influenced by
 	- age
 	- trendiness
@@ -136,7 +136,7 @@ $$IF = {n_{citations} \over n_{papers}}$$
 
 - Not influenced by
 	- author contribution
-	 
+
 
 ----
 
@@ -186,7 +186,7 @@ Tracks impact in social media and web 2.0 platforms, such as:
 
 ### Science is not just about publishing papers
 
-As scientists, we have a lot of different skills, occupations or duties. Peer-review papers are only one way to valorise these. 
+As scientists, we have a lot of different skills, occupations or duties. Peer-review papers are only one way to valorise these.
 
 ![The scientific pipeline](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure4.png)
 
@@ -256,7 +256,7 @@ So, go ahead and blog about your lab!
 	- Wordpress [http://wordpress.com/]()
 	- Blogger [http://www.blogger.com]()
 	- Tumblr [http://tumblr.com/]()
-	- Medium [https://medium.com/]()	
+	- Medium [https://medium.com/]()
 
 
 #### Electronic notebooks
@@ -306,12 +306,12 @@ Two strategies:
 2. **Fill with useful information about you**
 
 
-On the different platform, be informative about yourself. 
+On the different platform, be informative about yourself.
 
 
 ### Get your identifier
 
-Many scientists have homonyms, sometime in the same community. It is important to be able to distinguish them. Sometime, you also change name during your career. Both reason calls for a unique way to identify yourself in the research community. 
+Many scientists have homonyms, sometime in the same community. It is important to be able to distinguish them. Sometime, you also change name during your career. Both reason calls for a unique way to identify yourself in the research community.
 
 **ORCID** ([http://orcid.org/]()) is a service allowing researcher to claim a unique identifier. This identifier can be use in other services, such as publishers, online platforms, ...
 
@@ -322,32 +322,32 @@ Many scientists have homonyms, sometime in the same community. It is important t
 
 Facebook, but for scientists!
 
-- Generalist: 
+- Generalist:
 	- LinkedIn [https://www.linkedin.com/]()
 - Specialised
 	- ResearchGate [http://www.researchgate.net]()
-	- Academia.edu [https://www.academia.edu/]() 
+	- Academia.edu [https://www.academia.edu/]()
 
-These networks can be used to connect with your colleagues, display your publications and access other's, interact with other scientists. 
+These networks can be used to connect with your colleagues, display your publications and access other's, interact with other scientists.
 
 
 ### Personal website
 
 A personal website will offer more flexibility in terms of design and content that the pre-defined online platforms. It can be just a set of links pointing to your different profiles. It definitively do not need to be complex to be efficient.
 
-- Elbowpatch [http://www.elbowpatched.com/](). 
+- Elbowpatch [http://www.elbowpatched.com/]().
 - Github pages [https://pages.github.com/]()
 - About me [https://about.me/]()
 
 
 ### ImpactStory
 
-	DISCLAIMER: I am an ImpactStory adviser since 2013. 
+	DISCLAIMER: I am an ImpactStory adviser since 2013.
 	That means I got three free t-shirts and free stickers.
 
-> Discover and share how your research is read, cited, tweeted, bookmarked, and more. 
+> Discover and share how your research is read, cited, tweeted, bookmarked, and more.
 
-ImpactStory is a **paid service** (free to try) that gathers all your scientific production in one place and computed related altmetrics. These metrics are put into context (related to your fields, the platform, ...). 
+ImpactStory is a **paid service** (free to try) that gathers all your scientific production in one place and computed related altmetrics. These metrics are put into context (related to your fields, the platform, ...).
 
 Update of your profile can be automated by connecting it to ORCID, Scopus, Twitter, ....
 
@@ -370,7 +370,7 @@ Twitter can be used in multiple ways in the scientific community. It can be used
 
 Personal tips:
 
-- If you want to have **larger impact**, tweet in the late afternoon (GTM+0). Europeans will still be in the office and Americans will get to work. Larger audience. 
+- If you want to have **larger impact**, tweet in the late afternoon (GTM+0). Europeans will still be in the office and Americans will get to work. Larger audience.
 - Use third party apps to schedule tweets
 	- HootSuite [https://hootsuite.com/]()
 	- Buffer [https://buffer.com/]()
@@ -380,7 +380,7 @@ Personal tips:
 
 Tips from Anne Osterrieder[^1]
 
-- Interesting, engaging and informative updates about your research 
+- Interesting, engaging and informative updates about your research
 - Find the right balance between professional and personal informations
 - Beware of posting confidential informations (grants, papers, …)
 - Everything is in the open!
@@ -427,4 +427,3 @@ Of course, any order is good :)
 Very nice graphical summary of my presentation by [@Koen_VdE](https://twitter.com/Koen_VdE). High resolution version can be downloaded here: [http://baryon.be/blog/2015/07/zeg-t-eens-summerschool-on-science-communication/]()
 
 ![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/graphical_summary.png)
-

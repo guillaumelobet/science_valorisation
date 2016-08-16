@@ -4,7 +4,7 @@
 
 - [University of Liege](http://www.ulg.ac.be/) - [PhytoSYSTEMS](http://www.phytosystems.ulg.ac.be/en/)
 - [guillaume.lobet@ulg.ac.be](mailto:guillaume.lobet@ulg.ac.be)
-- [www.guillaumelobet.be]()
+- [www.guillaumelobet.be](http://www.guillaumelobet.be)
 - [@guillaumelobet](https://twitter.com/guillaumelobet)
 
 
@@ -50,11 +50,11 @@ Wikipedia:
 
 > Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts
 
-In a perfect world, every scientist would be judged based on the sole quality of his/her research. However, when applying for grants, promotions, etc, the work of the applicant needs to be evaluated by (partially) non-specialists. The evaluation comity will have dozen of applications to grade and no time for a proper quality assessment of the applicant's work. Indicators of quality and productivity are therefore needed. Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
+In a perfect world, every scientist would be judged based on the sole quality of his/her research. However, when applying for grants, promotions, etc, the work of the applicant needs to be evaluated by (partially) non-specialists. The evaluation committee will have dozen of applications to grade and no time for a proper quality assessment of the applicant's work. Indicators of quality and productivity are therefore needed. Many indicators exits. We will only discuss the principal onces. For more info about other indicators, see:
 
-- Google Scholar metrics [https://scholar.google.com/citations?view_op=top_venues]()
-- h-index definition [https://en.wikipedia.org/wiki/H-index]()
-- Impact factor definition [https://en.wikipedia.org/wiki/Impact_factor]()
+- Google Scholar metrics https://scholar.google.com/citations?view_op=top_venues
+- h-index definition https://en.wikipedia.org/wiki/H-index
+- Impact factor definition https://en.wikipedia.org/wiki/Impact_factor
 
 
 ----
@@ -73,9 +73,11 @@ $$IF = {n_{citations} \over n_{papers}}$$
 ![Journal impact factor distribution](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/figure1.png)
 
 #### Source
+
+
 - ISI Journal Citation Report
-	- [http://apps.webofknowledge.com/]()
-	- [http://www.citefactor.org/journal-impact-factor-list-2014.html]()
+	- http://apps.webofknowledge.com
+	- http://www.citefactor.org/journal-impact-factor-list-2014.html
 
 #### Critics
 
@@ -118,8 +120,8 @@ $$IF = {n_{citations} \over n_{papers}}$$
 
 #### Source
 
-- Scopus [http://www.scopus.com/]()
-- Google Scholar [https://scholar.google.com]()
+- Scopus http://www.scopus.com/
+- Google Scholar https://scholar.google.com
 
 #### Critics
 
@@ -167,9 +169,9 @@ Tracks impact in social media and web 2.0 platforms, such as:
 
 #### Source
 
-- Altmetric.com [http://www.altmetric.com/]()
-- Plum analytics [http://www.plumanalytics.com/]()
-- ImpactStory [http://www.impactstory.org]()
+- Altmetric.com http://www.altmetric.com/
+- Plum analytics http://www.plumanalytics.com/
+- ImpactStory http://www.impactstory.org
 
 #### Drawbacks
 
@@ -204,31 +206,31 @@ As scientists, we have a lot of different skills, occupations or duties. Peer-re
 
 Acquiring datasets is a long and (sometime) expensive experience. Most of the time, you will not even use it at its maximal capacity. Sharing a dataset is a good way to valorise it further and enable additional analysis by the community.
 
-- figshare [http://figshare.com/]()
-- Dryad [http://datadryad.org/]()
+- figshare http://figshare.com/
+- Dryad http://datadryad.org/
 - ...
 
 #### Reading papers
 
 The most basic scientific activity is reading paper. We all do it. We do it for ourself, to stay up to-date in our field, to learn about a new topic, etc. Sometimes, we even find flaws or mistakes in published papers. There is no reason we should not be able to share this reading experience...
 
-- Mendeley [https://www.mendeley.com/]()
-- Zotero [https://www.zotero.org/]()
-- PubPeer  [https://pubpeer.com/]()
-- Pubmed Commons [http://www.ncbi.nlm.nih.gov/pubmedcommons/]()
+- Mendeley https://www.mendeley.com/
+- Zotero https://www.zotero.org/
+- PubPeer https://pubpeer.com/
+- Pubmed Commons http://www.ncbi.nlm.nih.gov/pubmedcommons/
 - ...
 
 #### Code
 
-Almost any analysis or plot required some level of coding. While some of it is trivial and easy to reproduce, some are more complexe. Sometimes, we spend days on a specific analysis, a particular graph. Sharing this experience will help the people who want to reproduce what you have done.
+Almost any analysis or plot required some level of coding. While some of it is trivial and easy to reproduce, some are more complex. Sometimes, we spend days on a specific analysis, a particular graph. Sharing this experience will help the people who want to reproduce what you have done.
 
-If you are developing software tools, or algorithms, its is even more important to share your code. It is the foundation of your work, what you can get credit for.
+If you are developing software tools, or algorithms, it is even more important to share your code. It is the foundation of your work, what you can get credit for.
 
 Sharing your code is also perfect way to work in team, build new collaborations and keep track of your work (version tracking).
 
-- Github [http://www.github.com]()
-- Sourceforge [http://www.sourceforge.net]()
-- Bitbucket [https://bitbucket.org/]()
+- Github http://www.github.com
+- Sourceforge http://www.sourceforge.net
+- Bitbucket https://bitbucket.org/
 - ...
 
 
@@ -236,35 +238,35 @@ Sharing your code is also perfect way to work in team, build new collaborations 
 
 Peer-reviewing is one of the foundation of academic publishing. The whole publishing system is based on the **voluntary** contribution of the scientific community. In addition, proper reviewing take some time, especially for young researchers. As such, reviewing activities should be valorised.
 
-- Publons [https://publons.com/]()
+- Publons https://publons.com/
 
 #### Posters, presentations
 
-- figshare [http://figshare.com/]()
-- Slideshare [www.slideshare.net]()
-- f1000 [http://f1000.com/posters]()
+- figshare http://figshare.com/
+- Slideshare www.slideshare.net
+- f1000 http://f1000.com/posters
 
 #### Lab life
 
-Writing a blog 	about your research is good for several reasons. It make you think about what you are doing and force you to structure your mind. It is also an excellent practice for writing paper. Quoting (from memory...) [Tobias Baskin](https://www.cpib.ac.uk/lab-fab/):
+Writing a blog about your research is good for several reasons. It make you think about what you are doing and force you to structure your mind. It is also an excellent practice for writing paper. Quoting (from memory...) [Tobias Baskin](https://www.cpib.ac.uk/lab-fab/):
 
 > When you give a child a violin for the first time, you do not expect him to play well. The same goes for writing. Practicing is the key.
 
 So, go ahead and blog about your lab!
 
 - Blogging
-	- Wordpress [http://wordpress.com/]()
-	- Blogger [http://www.blogger.com]()
-	- Tumblr [http://tumblr.com/]()
-	- Medium [https://medium.com/]()
+	- Wordpress http://wordpress.com/
+	- Blogger http://www.blogger.com
+	- Tumblr http://tumblr.com/
+	- Medium https://medium.com/
 
 
 #### Electronic notebooks
 
 Open-science aficionados might take a step further than than the blog by making their lab notebook available to the world. This extreme step has been taken by several researchers already. It has the advantage to be fully transparent about your research.
 
-- Carl Boettinger [http://www.carlboettiger.info/lab-notebook.html]()
-- iPython Notebook [http://ipython.org/notebook.html]()
+- Carl Boettinger http://www.carlboettiger.info/lab-notebook.html
+- iPython Notebook http://ipython.org/notebook.html
 
 
 #### Pre-prints
@@ -274,17 +276,17 @@ The main advantage of pre-print is to make your work directly available to the s
 Before putting a pre-print of your article, do not forget to check the publishing policy of the target journal. Some do not accept to publish research that has been posted on a pre-print server.
 
 
-- arXiv [http://arxiv.org/]()
-- bioRXiv [http://biorxiv.org/]()
-- PeerJ pre-prints [https://peerj.com/preprints/]()
+- arXiv http://arxiv.org/
+- bioRXiv http://biorxiv.org/
+- PeerJ pre-prints https://peerj.com/preprints/
 
 
 #### Expertise
 
 As a scientist, you have a unique expertise in, at least, on domain. You can use to web to share it!
 
-- Stack Exchange [http://www.stackexchange.com]()
-- ResearchGate [http://www.researchgate.net]()
+- Stack Exchange http://www.stackexchange.com
+- ResearchGate http://www.researchgate.net
 
 
 
@@ -313,7 +315,7 @@ On the different platform, be informative about yourself.
 
 Many scientists have homonyms, sometime in the same community. It is important to be able to distinguish them. Sometime, you also change name during your career. Both reason calls for a unique way to identify yourself in the research community.
 
-**ORCID** ([http://orcid.org/]()) is a service allowing researcher to claim a unique identifier. This identifier can be use in other services, such as publishers, online platforms, ...
+**ORCID** (http://orcid.org/) is a service allowing researcher to claim a unique identifier. This identifier can be use in other services, such as publishers, online platforms, ...
 
 
 
@@ -323,10 +325,10 @@ Many scientists have homonyms, sometime in the same community. It is important t
 Facebook, but for scientists!
 
 - Generalist:
-	- LinkedIn [https://www.linkedin.com/]()
+	- LinkedIn https://www.linkedin.com/
 - Specialised
-	- ResearchGate [http://www.researchgate.net]()
-	- Academia.edu [https://www.academia.edu/]()
+	- ResearchGate http://www.researchgate.net
+	- Academia.edu https://www.academia.edu/
 
 These networks can be used to connect with your colleagues, display your publications and access other's, interact with other scientists.
 
@@ -335,9 +337,9 @@ These networks can be used to connect with your colleagues, display your publica
 
 A personal website will offer more flexibility in terms of design and content that the pre-defined online platforms. It can be just a set of links pointing to your different profiles. It definitively do not need to be complex to be efficient.
 
-- Elbowpatch [http://www.elbowpatched.com/]().
-- Github pages [https://pages.github.com/]()
-- About me [https://about.me/]()
+- Elbowpatch http://www.elbowpatched.com
+- Github pages https://pages.github.com
+- About me https://about.me/
 
 
 ### ImpactStory
@@ -355,7 +357,7 @@ Update of your profile can be automated by connecting it to ORCID, Scopus, Twitt
 
 
 
-Once your profile is fully setup, you can export it to JSON, CSV or as a formatted markdown CV ([http://impact.guillaumelobet.be/]())
+Once your profile is fully setup, you can export it to JSON, CSV or as a formatted markdown CV (http://impact.guillaumelobet.be)
 
 
 
@@ -372,8 +374,8 @@ Personal tips:
 
 - If you want to have **larger impact**, tweet in the late afternoon (GTM+0). Europeans will still be in the office and Americans will get to work. Larger audience.
 - Use third party apps to schedule tweets
-	- HootSuite [https://hootsuite.com/]()
-	- Buffer [https://buffer.com/]()
+	- HootSuite https://hootsuite.com
+	- Buffer https://buffer.com
 - Keep it mainly professional
 - Engage with other, but don't be pushy
 
@@ -415,8 +417,8 @@ Of course, any order is good :)
 
 ## Further reading
 
-- Impact challenge [http://blog.impactstory.org/research-impact-challenge-ebook/]()
-- Tweet your Science [http://www.tweetyourscience.com/]()
+- Impact challenge http://blog.impactstory.org/research-impact-challenge-ebook
+- Tweet your Science http://www.tweetyourscience.com
 
 [^1]:  Osterrieder, A. (2013). The value and use of social media as communication tool in the plant sciences. Plant Methods, 9(26), 26. [http://doi.org/10.1186/1746-4811-9-26]()
 
@@ -424,6 +426,6 @@ Of course, any order is good :)
 
 ## Graphical summary
 
-Very nice graphical summary of my presentation by [@Koen_VdE](https://twitter.com/Koen_VdE). High resolution version can be downloaded here: [http://baryon.be/blog/2015/07/zeg-t-eens-summerschool-on-science-communication/]()
+Very nice graphical summary of my presentation by [@Koen_VdE](https://twitter.com/Koen_VdE). High resolution version can be downloaded here: http://baryon.be/blog/2015/07/zeg-t-eens-summerschool-on-science-communication/
 
 ![The networks' network](https://raw.githubusercontent.com/guillaumelobet/science_valorisation/master/images/graphical_summary.png)
